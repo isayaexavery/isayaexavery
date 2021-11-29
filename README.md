@@ -3,7 +3,7 @@
 ---
 I am a Web Developer with experience in several programming languages including Java, python and JavaScript.
  
- 🔭 I’m planning for a Project **Swahili reader**.
+ 🔭 I’m planning for a Project about **Swahili language**.
  
  🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
