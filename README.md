@@ -10,7 +10,7 @@ I am a Web Developer with experience in several programming languages including 
  
 <!--  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> -->
  
- 👯 I’m looking to collaborate for a Python and Javascript project..
+ 👯 I’m looking to collaborate for a Python and Javascript project.
  
  🤔 I’m looking for help with AWS.
  
@@ -38,7 +38,9 @@ I am a Web Developer with experience in several programming languages including 
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
 ### Languages I know
-<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-Javascript-F89820?style=flat&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
+<img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> 
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
 ---
 <!-- 
