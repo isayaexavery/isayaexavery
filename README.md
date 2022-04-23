@@ -5,8 +5,8 @@ I am a Web Developer with experience in several programming languages including 
  
  🔭 I’m planning for a Project about **Swahili language**.
  
- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
- 
+ <!-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+ -->
  
 <!--  :books: I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7"> and <img src="http://img.shields.io/badge/-Deno-black?style=flat&logo=deno&logoColor=white"/> -->
  
