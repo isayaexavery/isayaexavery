@@ -1,7 +1,7 @@
 ### Hey, Isaya here 👋
 
 ---
-I am a Web Developer with experience in several programming languages including Java, python and JavaScript.
+I am a Web and Android apps Developer with experience in several programming languages including Java, python and JavaScript.
  
  🔭 I’m planning for a Project about **Swahili language**.
  
