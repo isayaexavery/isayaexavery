@@ -1,7 +1,7 @@
 ### Hey, Isaya here 👋
 
 ---
-I am a Web and Android apps Developer with experience in several programming languages including Java, python, React JS, next JS and JavaScript.
+I am a Web and Android apps Developer with experience in several programming languages including Java, python, React JS, React Native, next JS and JavaScript.
  
  🔭 I’m planning for a Project about **Swahili language**.
  
@@ -39,6 +39,8 @@ I am a Web and Android apps Developer with experience in several programming lan
 <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
 <img src="https://img.shields.io/badge/-Android%20Studio%20-05122A?style=flat&logo=android-studio&logoColor=007ACC">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
+<img src="https://img.shields.io/badge/expo-1C1E24?style=flat&logo=expo&logoColor=#D04A37">
+<img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB">
 <img src="https://img.shields.io/badge/-kotlin-000000?style=flat&logo=kotlin&logoColor=FFFFFF">
 
 ### Languages I know
